@@ -1,7 +1,7 @@
 Olá, sou desenvolvedor de **infraestrutura como código** e estudante de **programação**   
 numa perspectiva **DevOps**!                                                      
 
-:books: Estudando: **Ansible**, **Terraform**, **Docker**, **Kubernets**, **AWS** e **Azure**.
+:books: Estudando: **Ansible**, **Terraform**, **Docker**, **Kubernets**, **AWS**, **Azure** e **Digital Ocean**.
 
 :mag: Monitoramento: **Zabbix**, **Grafana**.
 
@@ -19,4 +19,5 @@ numa perspectiva **DevOps**!
 ![grafana_logo_icon_171048](https://user-images.githubusercontent.com/31419145/163695745-7abdd6e1-de53-4c8e-85cb-d130b369d400.png)
 ![python_18894](https://user-images.githubusercontent.com/31419145/163695753-ee519621-e517-498c-a478-74ce81a3eb7f.png)
 ![ScriptEditor_37042](https://user-images.githubusercontent.com/31419145/163695764-ca394662-2c2a-4ca3-9b2d-1a3a7f6c4460.png)
-![Visual_Code_icon-icons com_56584](https://user-images.githubusercontent.com/31419145/163695766-027257b6-005c-48b8-90e7-af5e04a4cae9.png)
+![Visual_Code_icon-icons com_56584](https://user-images.githubusercontent.com/31419145/163695766-027257b6-005c-48b8-90e7-af5e04a4cae9.png) 
+![4519029_digital_ocean_icon](https://user-images.githubusercontent.com/31419145/163812374-c7a502b1-3657-48dd-b49d-0b12d280941a.png)
